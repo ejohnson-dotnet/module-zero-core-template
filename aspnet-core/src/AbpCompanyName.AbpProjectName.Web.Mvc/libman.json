@@ -195,6 +195,11 @@
     {
       "library": "push.js@1.0.12",
       "destination": "wwwroot/libs/push.js"
+    },
+    {
+      "provider": "jsdelivr",
+      "library": "famfamfam-flags@1.0.0",
+      "destination": "wwwroot/libs/famfamfam-flags/"
     }
     //other libs end
   ]
