@@ -6,11 +6,10 @@
     <AssetTargetFallback>$(AssetTargetFallback);portable-net45+win8+wp8+wpa81;</AssetTargetFallback>
     <AssemblyName>AbpCompanyName.AbpProjectName.Core</AssemblyName>
     <PackageId>AbpCompanyName.AbpProjectName.Core</PackageId>
-    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
-    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
-    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
     <UserSecretsId>AbpCompanyName-AbpProjectName-56C2EF2F-ABD6-4EFC-AAF2-2E81C34E8FB1</UserSecretsId>
     <RootNamespace>AbpCompanyName.AbpProjectName</RootNamespace>
+
+    <Product>AbpCompanyName.AbpProjectName.Core</Product>
   </PropertyGroup>
 
   <ItemGroup>

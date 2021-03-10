@@ -14,6 +14,8 @@
     <PreserveCompilationContext>true</PreserveCompilationContext>
     <MvcRazorExcludeRefAssembliesFromPublish>false</MvcRazorExcludeRefAssembliesFromPublish>
     <PreserveCompilationReferences>true</PreserveCompilationReferences>
+
+    <Product>AbpCompanyName.AbpProjectName.Web.Mvc</Product>
   </PropertyGroup>
 
   <ItemGroup>

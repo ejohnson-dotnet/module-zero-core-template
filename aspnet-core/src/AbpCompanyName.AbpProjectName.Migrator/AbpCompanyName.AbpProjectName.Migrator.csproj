@@ -6,9 +6,8 @@
     <AssemblyName>AbpCompanyName.AbpProjectName.Migrator</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>AbpCompanyName.AbpProjectName.Migrator</PackageId>
-    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
-    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
-    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    
+    <Product>AbpCompanyName.AbpProjectName.Migrator</Product>
   </PropertyGroup>
 
   <ItemGroup>
